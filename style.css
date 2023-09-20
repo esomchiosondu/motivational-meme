@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.pen {
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+}
+
+.pan {
+    text-align: center;
+}
+
+.pans {
+    text-align: center;
+}
+
+img {
+    border: solid white 5px;
+    width: 100%;
+
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+}
